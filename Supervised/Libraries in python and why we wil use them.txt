@@ -1,0 +1,12 @@
+
+
+Basically python is the basic programng language loaded with libararies that can be used for the Datascience and Machine Learning.
+
+
+We use Libraries of 
+
+1. NUMPY: --> USED FOR SCIENTIFIC COMPUTING
+2. MATPLOTLIB: --> DATA VISUALIZATION
+3. PANDAS --> DATA ANALYSIS
+4.SCKIT LEARN: --> ALL THE MACHINE LEARNING ALGORTIHMS ARE THERE HERE
+5.SEABORN: --> STATISTIC MODELLING.
